@@ -4,7 +4,7 @@
 This was my first web design project I undertook (For Fun). 
 ### Disclaimer: 
 The Web design was created without any layout plan, typography etc. I just wanted to have a go and experiment with designing sites using figma. 
-There is a lot of room for imporvement. 
+There is a lot of room for improvements of course. 
 
 ## Design Versions 
 You can View in (PDF or PNG) for the:
